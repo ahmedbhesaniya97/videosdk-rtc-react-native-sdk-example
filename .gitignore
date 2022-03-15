@@ -49,3 +49,5 @@ buck-out/
 .env
 yarn.lock
 android/local.properties
+android/local.properties
+package-lock.json
